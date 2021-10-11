@@ -1,4 +1,5 @@
-### Oiee, eu sou a Jéssica Gama, graduanda em Ciência da Computação e futura desenvolvedora front-end :tada:
+### Oiee, eu sou a Jéssica Gama! Graduanda em Ciência da Computação e futura desenvolvedora front-end!
+
 
 <!--
 **jeszgama/jeszgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
