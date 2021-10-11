@@ -1,19 +1,16 @@
-## Oiee, eu sou a Jéssica Gama!
+### Oiee, eu sou a Jéssica Gama!
 
+<!--  Sobre mim -->
+- :woman_technologist: Atualmente trabalho como desenvolvedora Front-End
+- :pencil: Estou aprendendo ReactJs, Html e Scss
+- :pushpin: Curiosidades: Eu amo assistir filmes e séries no meu tempo livre
 
-<!--
-**jeszgama/jeszgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### Hi there, I'm Jéssica Gama!
+- :woman_technologist: I'm currently work as a Front-End developer
+- :memo: I'm currently learning ReactJs, Html and Scss
+- :pushpin: Fun fact: I love watching movies and series in my spare time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!------ Cobra ------>
 ![Snake animation](https://github.com/jeszgama/jeszgama/blob/output/github-contribution-grid-snake.svg)
