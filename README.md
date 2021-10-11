@@ -19,9 +19,14 @@
 - :memo: I'm currently learning ReactJs, Html and Scss
 - :pushpin: Fun fact: I love watching movies and series in my spare time
 
-<!------ Dados de linguagem ------>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&langs_count=8)](https://github.com/jeszgama/github-readme-stats)
-
+<!------ Dados Github ------>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeszgama&count_private=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact)](https://github.com/jeszgama/github-readme-stats)
+</div>
+  
 <!------ Cobra ------>
 ![Snake animation](https://github.com/jeszgama/jeszgama/blob/output/github-contribution-grid-snake.svg)
 <p align="end">
