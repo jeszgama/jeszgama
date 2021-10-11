@@ -1,4 +1,4 @@
-### Oiee, eu sou a Jéssica Gama! Graduanda em Ciência da Computação e futura desenvolvedora front-end!
+## Oiee, eu sou a Jéssica Gama!
 
 
 <!--
