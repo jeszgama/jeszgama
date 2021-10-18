@@ -31,4 +31,4 @@
 <!-- ![Snake animation](https://github.com/jeszgama/jeszgama/blob/output/github-contribution-grid-snake.svg)
 <p align="end">
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jeszgama" alt="visitor badge"></img>
-</p> --> -->
+</p> -->
