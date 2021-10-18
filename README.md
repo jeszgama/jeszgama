@@ -20,11 +20,11 @@
 - :pushpin: Fun fact: I love watching movies and series in my spare time
 
 <!------ Dados Github ------>
+# <p align="center"></p>
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeszgama&count_private=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact)](https://github.com/jeszgama/github-readme-stats)
+  <a href="https://github.com/jeszgama">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeszgama&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact&langs_count=7"/>
 </div>
   
 <!------ Cobra ------>
