@@ -50,7 +50,7 @@
     
    <h3> OS </h3> 
    <img align="center" alt="Ubuntu" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-   <img align="center" alt="Windowns" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original-wordmark.svg">
+   <img align="center" alt="Windowns" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
    <hr>
     
    <h3> Skills </h3> 
