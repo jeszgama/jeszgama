@@ -1,3 +1,6 @@
+<!-- Links -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+
 <!--  Sobre mim Português -->
 # <p align="center">Olá, eu sou a Jéssica Gama!</p>
 <p align="center">
@@ -33,6 +36,7 @@
   <a href = "mailto:jessicagama9827@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/WMJVB59K" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"        target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jéssica-oliveira-da-gama-a94b0a156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/jeszgama" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jeszgama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCUhLs7_lKDsPFPk2VlU-mzw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
                                                                                      
