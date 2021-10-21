@@ -23,8 +23,8 @@
 # <p align="center"></p>
 <div align="center">
   <a href="https://github.com/jeszgama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeszgama&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact&langs_count=7"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jeszgama&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact&langs_count=7"/>
 </div>
   
 <!-- Contatos  -->
