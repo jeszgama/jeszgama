@@ -1,5 +1,6 @@
 <!-- Links -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://devicon.dev/ -->
 
 <!--  Sobre mim Português -->
 # <p align="center">Olá, eu sou a Jéssica Gama!</p>
