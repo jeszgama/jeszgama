@@ -22,15 +22,16 @@
 - :woman_technologist: I'm currently work as a Front-End developer in Gestor Food/MT
 - :memo: I'm currently learning ReactJs, Html and Scss
 - :pushpin: Fun fact: I love watching movies and series in my spare time
-
+ 
 <!------ Dados Github ------>
-# <p align="center"></p>
+<hr>
+ <p align="center"></p>
 <div align="center">
   <a href="https://github.com/jeszgama">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jeszgama&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeszgama&layout=compact&langs_count=7"/>
 </div>
-  
+  <hr>
 <!-- Contatos  -->
   <h3> Social </h3>
   <div>    
