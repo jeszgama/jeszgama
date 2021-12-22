@@ -5,7 +5,7 @@
 <!--  Sobre mim Português -->
 # <p align="center">Olá, eu sou a Jéssica Gama!</p>
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Graduanda+em+Ciência+da+Computação+pela+UFMS;Desenvolvedora+Trainee+Front-end+na+Gestor+Food/MT"></a>
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Graduanda+em+Ciência+da+Computação+pela+UFMS"></a>
 </p>
 
 - :woman_technologist: Atualmente estou a procura de um estágio
@@ -16,7 +16,7 @@
 <!--  Sobre mim Inglês -->
 # <p align="center">Hi there, I'm Jéssica Gama!</p>
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Undergraduate+in+Computer+Science+at+UFMS;Developer+Trainee+Front-end+at+Gestor+Food/MT"></a>
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Undergraduate+in+Computer+Science+at+UFMS"></a>
 </p>
 
 - :woman_technologist: At the moment i'm looking for a job
