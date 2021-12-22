@@ -10,7 +10,7 @@
 
 - :woman_technologist: Atualmente trabalho como desenvolvedora Front-End na Gestor Food/MT
 - :pencil: Estou aprendendo ReactJs, Html e Scss
-- :pushpin: Curiosidades: Eu amo assistir filmes e séries no meu tempo livre
+<!-- - :pushpin: Curiosidades: Eu amo assistir filmes e séries no meu tempo livre -->
 
 
 <!--  Sobre mim Inglês -->
@@ -21,7 +21,7 @@
 
 - :woman_technologist: I'm currently work as a Front-End developer in Gestor Food/MT
 - :memo: I'm currently learning ReactJs, Html and Scss
-- :pushpin: Fun fact: I love watching movies and series in my spare time
+<!-- - :pushpin: Fun fact: I love watching movies and series in my spare time -->
  
 <!------ Dados Github ------>
 <hr>
@@ -64,10 +64,10 @@
    <img align="center" alt="Markdown" height="35" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
    <img align="center" alt="Npm" height="35" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
    <img align="center" alt="Git" height="35" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-   <img align="center" alt="NodeJS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<!--    <img align="center" alt="NodeJS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
    <img align="center" alt="Yarn" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
    <img align="center" alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-   <img align="center" alt="Figma" height="35" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<!--    <img align="center" alt="Figma" height="35" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> -->
     
    <hr>
   <!-- Contador de visitas -->
