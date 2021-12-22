@@ -8,7 +8,7 @@
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Graduanda+em+Ciência+da+Computação+pela+UFMS;Desenvolvedora+Trainee+Front-end+na+Gestor+Food/MT"></a>
 </p>
 
-- :woman_technologist: Atualmente trabalho como desenvolvedora Front-End na Gestor Food/MT
+- :woman_technologist: Atualmente estou a procura de um estágio
 - :pencil: Estou aprendendo ReactJs, Html e Scss
 <!-- - :pushpin: Curiosidades: Eu amo assistir filmes e séries no meu tempo livre -->
 
@@ -19,7 +19,7 @@
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=700&lines=Undergraduate+in+Computer+Science+at+UFMS;Developer+Trainee+Front-end+at+Gestor+Food/MT"></a>
 </p>
 
-- :woman_technologist: I'm currently work as a Front-End developer in Gestor Food/MT
+- :woman_technologist: At the moment i'm looking for a job
 - :memo: I'm currently learning ReactJs, Html and Scss
 <!-- - :pushpin: Fun fact: I love watching movies and series in my spare time -->
  
